@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://payeqipugana.pages.dev/sitemap.xml
